@@ -1,11 +1,11 @@
 # Overview
 
-It is public template of assignment `"labrabota 3"` for FPMI students
+ТПМП, лабораторная работа 2
 
 # Usage
 
-Please, edit README and add some details, as instance **{add your last name, first name and group number}**.
+**{Бабко Егор, 10}**.
 
 # Building
 
-Please, import repository and use for repl.it project, which is defined in the assignment "labrabota 3".
+Создано с использованием repl.it
